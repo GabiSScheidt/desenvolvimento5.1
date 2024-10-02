@@ -13,7 +13,7 @@ listaNaoOrdenada.innerHTML = `
   <li>JavaScript</li>
 `
 listaOrdenada.innerHTML = `
-  <li><a href="https://about.meta.com/">Meta</a></li>
-  <li><a href="https://www.aws.com">AWS</a></li>
+  <li><a href="https://www.instagram.com/">Instagram</a></li>
+  <li><a href="https://www.facebook.com/?locale=pt_BR">Facebook</a></li>
   <li><a href="https://www.google.com">Google</a></li>
 `
